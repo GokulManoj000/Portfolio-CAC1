@@ -1,0 +1,114 @@
+.right{
+    background: linear-gradient(98.3deg, rgb(0, 0, 0) 10.6%, rgb(255, 0, 0));
+    width: 40%;
+    height: 750px;
+    float: left;
+
+}
+
+.left{
+    background-color: black;
+    width: 60%;
+    height: 750px;
+    float: left;
+    z-index: -1;
+    color: #fff;
+}
+
+.nav-link{
+    font-size: 20px;
+    
+    color: #fff
+}
+
+.nav-link:active{
+    font-weight: bold;
+}
+
+.name{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 100px;
+    color: #fff;
+    padding-left: 20%;
+    height: 10%;
+    padding-top: 30%;
+}
+
+.img{
+    height:400px;
+    width:400px;
+    
+    border-radius:200px ;
+}
+
+.box1{
+    height: 300px;
+    width: 200px;
+    background-color: rgb(192, 7, 7);
+    border-radius: 20px;
+    color: #ffffff;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-left: 220px;
+    margin-top: 50px;
+    float: left;
+    font-weight: bold;
+}
+
+.box2{
+    height: 300px;
+    width: 200px;
+    background-color: rgb(192, 7, 7);
+    border-radius: 20px;
+    color: #ffffff;
+    padding-top: 20px;
+    padding-left: 10px;
+    float: left;
+    margin-left: 80px;
+    margin-top: 50px;
+    font-weight: bold;
+}
+
+.box{
+    height: 400px;
+    width: 400px;
+    background-color: #070707;
+    margin-left: 60px;
+    margin-top: 160px;
+    border-radius: 200px;
+    /* box-shadow: 10px 10px 10px 10px rgb(85, 84, 84); */
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: #fff;
+}
+
+.contact{
+    height: 50px;
+    width: 90%;
+    background-color: #000000;
+    margin-left: 50px;
+    margin-top: 90px;
+    border-radius: 10px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.education{
+    width: 100%;
+    height: 700px;
+    background: linear-gradient(98.3deg, rgb(0, 0, 0) 10.6%, rgb(255, 0, 0) 97.7%);
+    
+}
+
+.head2{
+    text-align: center;
+    padding-top: 10%;
+    font-size: 50px;
+}
+
+.img_abt{
+    padding-left: 80px;
+    padding-top: 100px;
+    border-radius: 50%;
+}
